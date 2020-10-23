@@ -1,0 +1,4 @@
+h = 3
+b = 4
+h + b
+h > console
